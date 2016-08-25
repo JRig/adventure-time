@@ -1,3 +1,3 @@
 #!/bin/bash
-	echo "ADVENTURE SLIME!!"
+	echo "ADVENTURE TIME!!"
 	echo "I love Princess Bubblegum"
